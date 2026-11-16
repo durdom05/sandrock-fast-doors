@@ -1,0 +1,13 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.idea/
+# never commit game files
+Sandrock_Data/
+Managed/
+*.dll
+*.pdb
+BepInEx/config/
+LogOutput.log
